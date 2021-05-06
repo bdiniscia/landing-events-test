@@ -6,7 +6,7 @@ Here I'll show you a quick guide of how to run this app locally:
 
 1.  **Download the repository** 📥
 
-    You can download it as zip file or clone it to you computer, with the green button "Code" 🟩 in the top navigation of the Github repository.
+    You can download the repository as zip file or clone it to you computer, with the green button "Code" 🟩 in the top navigation of Github.
 
 2.  **Install dependencies** 🧰
 
@@ -37,6 +37,6 @@ Here I'll show you a quick guide of how to run this app locally:
     You can find the Netlify deploy [here](https://keen-lichterman-2a58fe.netlify.app/)
     
     
-    THANKS FOR WATCHING AND ✨ SUBSCRIBE ✨!
+    THANKS FOR WATCHING AND ✨  SUBSCRIBE ✨!
     
 
