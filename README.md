@@ -6,7 +6,7 @@ Here I'll show you a quick guide of how to run this app locally:
 
 1.  **Download the repository** 📥
 
-    You can download it as zip file or clone it to you computer, with the green button "Code" 🟩 in the top navigation of the github repository.
+    You can download it as zip file or clone it to you computer, with the green button "Code" 🟩 in the top navigation of the Github repository.
 
 2.  **Install dependencies** 🧰
 
@@ -24,7 +24,7 @@ Here I'll show you a quick guide of how to run this app locally:
 
 3.  **Run localhost** 💻
 
-    Now run this command to build you app, and have it at you localhost: 
+    Now run this command to build your app, and have it at you localhost: 
     
     ```shell
     npm start
@@ -34,9 +34,9 @@ Here I'll show you a quick guide of how to run this app locally:
 
 4.  **Deploy** 🌐
 
-    You can find a Netlify deploy [here](https://keen-lichterman-2a58fe.netlify.app/)
+    You can find the Netlify deploy [here](https://keen-lichterman-2a58fe.netlify.app/)
     
     
-    THANKS FOR WATCHING AND ✨SUBSCRIBE✨!
+    THANKS FOR WATCHING AND ✨ SUBSCRIBE ✨!
     
 
